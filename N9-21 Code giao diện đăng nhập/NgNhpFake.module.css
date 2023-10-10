@@ -1,0 +1,128 @@
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-14xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 519px;
+  height: 501px;
+}
+.ng-nhp3 {
+  position: absolute;
+  top: 20px;
+  left: 106px;
+  font-size: var(--font-size-31xl);
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-darkslategray-200);
+  width: 306px;
+  height: 75px;
+}
+.group-item {
+  position: absolute;
+  top: 122px;
+  left: 45px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 423px;
+  height: 85px;
+}
+.group-inner {
+  position: absolute;
+  top: 99px;
+  left: 72px;
+  background-color: var(--color-whitesmoke-100);
+  width: 147px;
+  height: 45px;
+}
+.email-address1 {
+  position: absolute;
+  top: 104px;
+  left: 82px;
+  font-weight: 600;
+  display: inline-block;
+  width: 175px;
+  height: 40px;
+}
+.group-child1,
+.group-child2 {
+  position: absolute;
+  top: 244px;
+  left: 45px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 423px;
+  height: 85px;
+}
+.group-child2 {
+  top: 379px;
+  background-color: var(--color-gray-400);
+  border: 1px solid var(--color-gray-300);
+  height: 54px;
+}
+.group-child3 {
+  position: absolute;
+  top: 221px;
+  left: 72px;
+  background-color: var(--color-whitesmoke-100);
+  width: 112px;
+  height: 44px;
+}
+.password1 {
+  position: absolute;
+  top: 230px;
+  left: 82px;
+  font-weight: 600;
+  display: inline-block;
+  width: 175px;
+  height: 40px;
+}
+.image-25-icon1 {
+  position: absolute;
+  top: 267px;
+  left: 412px;
+  width: 44px;
+  height: 38px;
+  object-fit: cover;
+}
+.ng-nhp4 {
+  position: absolute;
+  top: 392px;
+  left: 192px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-whitesmoke-200);
+  display: inline-block;
+  width: 145px;
+  height: 45px;
+}
+.image-24-icon1,
+.rectangle-parent {
+  position: absolute;
+  top: 120px;
+  left: 79px;
+  width: 519px;
+  height: 501px;
+}
+.image-24-icon1 {
+  top: 76px;
+  left: 670px;
+  width: 840px;
+  height: 654px;
+  object-fit: cover;
+}
+.ng-nhp-fake {
+  position: relative;
+  background-color: var(--color-lightgray);
+  width: 100%;
+  height: 740px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  font-family: var(--font-poppins);
+}
